@@ -1,4 +1,3 @@
-# 💫 About Me:
 Me chamo Marco Antonio Evaristo, estudante de tecnologias inicialmente em 01/2024, estou em constante aprendizado. 
 
 
