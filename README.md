@@ -11,12 +11,4 @@ Me chamo Marco Antonio Evaristo, estudante de tecnologias inicialmente em 01/202
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcoaevaristo&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaevaristo&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marcoaevaristo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marcoaevaristo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=marcoaevaristo&icon=0&color=0)](https://visitcount.itsvg.in)
 
